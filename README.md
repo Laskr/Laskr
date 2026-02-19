@@ -2,9 +2,9 @@
 
 I'm an Analytics Engineer passionate about solving complex business problems with clean, efficient, and robust code. With a background as a Business Analyst, I specialize in bridging the gap between business needs and technical solutions.
 
-- 🔭 **I’m currently working on:** A hospital price transparency project utilizing dbt and Snowflake to build a data pipeline to make MRF files understandable
-- 🌱 **I’m currently learning:** dbt & Snowflake
-- 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/john-r-pederson) | [john@laskrconsulting.com](mailto:john@laskrconsulting.com)
+- **I’m currently working on:** A hospital price transparency project utilizing dbt and Snowflake to build a data pipeline to make MRF files understandable
+- **I’m currently learning:** dbt & Snowflake
+- **How to reach me:** [LinkedIn](https://linkedin.com/in/john-r-pederson) | [john@laskrconsulting.com](mailto:john@laskrconsulting.com)
 
 ---
 
